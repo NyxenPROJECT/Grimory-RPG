@@ -4,7 +4,7 @@ RPG tactique au tour par tour, avec de la magie, qui se joue directement dans le
 
 ## ▶️ Jouer
 
-👉 **https://nyxenproject.github.io/Grimory-RPG/**
+👉 **[https://nyxenproject.github.io/Grimory-RPG/](https://github.com/NyxenPROJECT/Grimory-RPG/blob/main/index-5-1.html)**
 
 Aucune installation : ça marche sur PC, Android et iPhone.
 
